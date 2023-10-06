@@ -15,7 +15,7 @@
     "morgan": "^1.9.1",
     "passport": "^0.3.2",
     "passport-jwt": "^2.2.1",
-    "rxjs": "^5.4.2",
+    "rxjs": "^5.5.12",
     "winston": "^2.3.1"
   },
   "devDependencies": {
